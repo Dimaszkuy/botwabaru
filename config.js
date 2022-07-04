@@ -49,7 +49,7 @@ global.location = "Indonesia" //ur location
 
 //bot bombdy
 global.botname = "sychobotwa " //ur bot name
-global.websitex = "https://youtube.com/channel/UCfPxifuwrqmfUBy2JaldYAQ" //ur website
+global.websitex = "https://m.youtube.com/channel/UC0soONNMKtWedw_fmKrCPXw" //ur website
 global.sycho = "https://bit.ly/Sycho-RGA"
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "orang\n\n\n\n\n\n\n🗿🗿🗿🙏 "
